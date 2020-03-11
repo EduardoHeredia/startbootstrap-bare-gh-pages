@@ -1,0 +1,15 @@
+section {
+    background-color: blueviolet;
+    padding: 30 px;
+    margin: auto;
+}
+
+section:nth-child(even){
+    background-color: red;
+}
+
+
+.img{
+    background-image: url("...\...\assets\img\aaro.jpg");
+}
+
