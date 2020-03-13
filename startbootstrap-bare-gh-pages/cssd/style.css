@@ -5,7 +5,7 @@ section {
 }
 
 section:nth-child(even){
-    background-color: red;
+    background-color:violet;
 }
 
 
@@ -13,3 +13,16 @@ section:nth-child(even){
     background-image: url("...\...\assets\img\aaro.jpg");
 }
 
+.btn-new{
+    color:white;
+    background-color:transparent;
+    border-color: turquoise;
+    border-radius: 0 limportan;
+}
+
+.btn-new:hover{
+    color:white;
+    background-color: wheat;
+    border-color: wheat;
+
+}
